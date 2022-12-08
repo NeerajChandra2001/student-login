@@ -1,0 +1,39 @@
+body{
+    background-image: url(./image/high-angle-school-supplies-with-copy-space-education-day.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card{
+    width: 400px;
+    border-radius: 20px;
+    margin-top: 100px;
+    min-height:300px ;
+    text-align: left;
+}
+#login_mail{
+    border-radius: 30px;
+    border-color:  #89bed5;
+    border-width: 2px;
+
+}
+#login_pswd{
+    border-radius: 30px;
+    border-color:  #89bed5;
+    border-width: 2px;
+
+}
+a{
+    text-decoration: none;
+    color: #89bed5 ;
+}
+button{
+    width: 150px;
+    background-color: #89bed5;
+    border-radius: 30px;
+    border-width:0px;
+    height: 40px;
+
+}
+button:hover{
+    color: white;
+}
